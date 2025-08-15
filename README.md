@@ -16,7 +16,7 @@ The project demonstrates rapid UI development with Bootstrap components like nav
 - Custom color theme inspired by HKS brand colors (orange and dark gray)  
 - Mobile-first design ensuring usability across all devices
 
- **Technologies Used **
+ **Technologies Used**
 - HTML5  
 - CSS3  
 - [Bootstrap 5](https://getbootstrap.com/) (via CDN)  
